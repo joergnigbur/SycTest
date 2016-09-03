@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/6adcd02b062c7ad6302a1b69baa56d6194718795/pouchDB/pouch.d.ts",
+    "raw": "registry:dt/pouchdb/pouch#0.1.0+20160425153630",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/6adcd02b062c7ad6302a1b69baa56d6194718795/pouchDB/pouch.d.ts"
+  }
+}
